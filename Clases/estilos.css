@@ -1,0 +1,143 @@
+/* Sintaxis */
+
+/* div{
+    color: red;
+}
+
+p{
+    background-color: aqua;
+}
+ */
+
+ /* 1- selector de elementos */
+
+/* 
+ div{
+    background-color: black;
+ }
+ p{
+    background-color: aqua;
+ } */
+
+
+ /* 2- selector de identificacion */
+ 
+ /* 3- selector de clases */
+
+ /* .content{
+    background-color: blue;
+ }
+
+ .parrafo{
+    background-color: chartreuse;
+ } */
+
+ /* 4- selector universal */
+
+ /* *{
+    background-color: aquamarine;
+ } */
+
+/* div{
+    border: 4px solid black;
+}
+
+ */
+
+ /* COLORES EN CSS */
+
+/*  .contenedor{
+    background-color: brown;
+    height: 300px;
+    color: blue;
+    font-size: 30px;
+    border: 8px solid green;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* FONDOS EN CSS */
+
+/* .contenedor{
+    border: 3px solid red;
+    height: 500px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+ */
+
+
+ .contenedor{
+    width: 100% ;
+    height: 900px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+   /*  flex-wrap: wrap;
+    justify-content: space-evenly;         /* Centrar los elementos */
+
+   /*  align-items: start; */
+    
+  /*  gap: 10px;  */
+/*    column-gap: 30px; */
+
+
+
+ }
+ .items{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 200px;
+    margin: 10px;
+    color: white;   
+
+
+
+
+
+
+/* Propiedades para los Hijos */
+
+
+ }
+ .items{
+    background-color: auto;
+    order: 2;
+    flex-grow: 2;
+
+ }
+
+ .items{
+    background-color: aliceblue;
+/*     order: 3;*/ 
+flex-grow: 3;
+flex-basis: 800px;
+
+}
+
+.items{
+  /*   background-color: ; */
+ /*    order: 1; */
+ flex-grow: 5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,397 @@
+/* Ejercicio N°1 */
+
+/* Estilo para el encabezado */
+.seccion1 {
+    background-color: lightblue;    /* Cambia el color de Fondo */
+    height: 500px;
+    border: 2px solid black;        /* Cambia el color del Borde */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Estilo para el título */
+header h1 {
+    font-size: 30px;
+    color: darkblue;                    /* Cambia el color del texto h1 */
+    margin: 0;
+}
+
+/* Estilo para el párrafo dentro del encabezado */
+header p {
+    font-size: 20px;
+    color: black;
+    margin: 0;
+}
+
+
+
+/* Ejercicio N°2 */   
+
+
+
+/* Estilos para la sección */
+.seccion2  {
+    border: 2px solid black;
+    background-color: violet; /* Cambia el color de fondo según tu preferencia */
+    height: 500px;
+}
+
+.seccion2 h2 {
+    font-size: 25px;
+    color: black; /* Cambia el color según tu preferencia */
+    text-align: center;
+}
+
+.seccion2 div button {
+    background-color: #007BFF; /* Cambia el color de fondo según tu preferencia */
+    padding: 12px;
+    width: 150px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto 0 auto; /* Centra el botón horizontalmente y agrega margen superior */
+    color: #fff; /* Cambia el color del texto según tu preferencia */
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+.seccion2 h3 {
+    text-align: center;
+    color: #333; /* Cambia el color según tu preferencia */
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.seccion2 p {
+    font-size: 20px;
+    text-align: center;
+    text-align: center;
+}
+
+
+
+
+/* Ejercicio N°3 */
+
+
+/* Estilos para la primera sección */
+.seccion3 {
+    background-color: powderblue;                          /* Cambia el color de fondo según tu preferencia */
+    height: 500px;
+    border: 2px solid black;
+}
+
+.seccion3 h1 {
+    color: black;
+    font-size: 30px;
+}
+.seccion3 h2 {
+    font-size: 25px;
+    color: gray;              /* Cambia el color según tu preferencia */
+    text-align  : center;
+}
+
+.seccion3 div {
+   text-align: center;
+    width: 60%;
+    margin: 0 auto;  /* Centra el div horizontalmente */
+    border: 1px solid #ccc; /* Cambia el color del borde según tu preferencia */
+    padding: 20px; /* Añade un poco de padding para mejorar la apariencia */
+   
+}
+
+.seccion3 div h3 {
+    text-align: center;
+}
+
+.seccion3 div p {
+    font-size: 20px;
+    
+}
+
+.seccion3 div button {
+    background-color:#007BFF ; /* Cambia el color de fondo según tu preferencia */
+    padding: 12px;
+    width: 150px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto 0 auto; /* Centra el botón horizontalmente y agrega margen superior */
+    color: #fff; /* Cambia el color del texto según tu preferencia */
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+/* Estilos para la primera sección */
+
+.seccion3 {
+    background-color: #e0e0e0; /* Cambia el color de fondo según tu preferencia */
+    height: 500px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.seccion3 h2 {
+    font-size: 25px;
+    color: gray; /* Cambia el color según tu preferencia */
+    text-align: center;
+}
+
+.seccion3 div {
+    width: 50%;
+    margin: 0 auto; /* Centra el div horizontalmente */
+    border: 1px solid #ccc; /* Cambia el color del borde según tu preferencia */
+    padding: 15px; /* Añade un poco de padding para mejorar la apariencia */
+    text-align: center;
+}
+
+.seccion3 div h3 {
+    text-align: center;
+    text-align: center;
+}
+
+.seccion3 div p {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+.seccion3 h3 {
+    text-align: center;
+    color: #333; /* Cambia el color según tu preferencia */
+    text-transform: uppercase;
+}
+
+.seccion3 img {
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.seccion3 p {
+    font-size: 15px;
+    text-align: center;
+}
+
+/* Estilos para la sección del formulario de contacto */
+.seccion3 {
+    background-color: #c0c0c0; /* Cambia el color de fondo según tu preferencia */
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+
+
+
+.seccion3 h3 {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.seccion3 label {
+    font-size: 18px;
+    text-transform: uppercase;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.seccion3 input, 
+.seccion3 textarea {
+    width: 95%;
+    padding: 15px;
+    margin-top: 5px;
+    display: block;
+    text-align: center;
+}
+
+.seccion3 textarea {
+    height: 80px;
+    text-align: center;
+}
+
+.seccion3 button {
+    background-color: #007BFF; /* Cambia el color de fondo según tu preferencia */
+    color: white;
+    padding: 12px;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+}            
+
+
+
+/* Ejercicio N°4*/
+
+
+
+
+
+.seccion4 h2 {
+    font-size: 50px;
+    color: #555; /* Cambia el color según tu preferencia */
+    text-align: center;
+    text-align: center;
+}
+
+.seccion4 div {
+    width: 60%;
+    margin: 0 auto; /* Centra el div horizontalmente */
+    border: 1px solid #ccc; /* Cambia el color del borde según tu preferencia */
+    padding: 20px; /* Añade un poco de padding para mejorar la apariencia */
+    text-align: center;
+}
+
+.seccion4 div h3 {
+    text-align: center;
+}
+
+.seccion4 div p {
+    font-size: 25px;
+    text-align: center;
+}
+
+.seccion4 div button {
+    background-color: blue; /* Cambia el color de fondo según tu preferencia */
+    padding: 12px;
+    width: 150px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto 0 auto; /* Centra el botón horizontalmente y agrega margen superior */
+    color: #fff; /* Cambia el color del texto según tu preferencia */
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+/* Estilos para la sección con dos divs */
+.seccion4 {
+    background-color: #d0d0d0; /* Cambia el color de fondo según tu preferencia */
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+}
+
+
+
+.seccion4 h3 {
+    text-align: center;
+    color: #333; /* Cambia el color según tu preferencia */
+    text-transform: uppercase;
+    
+}
+
+.seccion4 img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+
+/* N°5 */
+/* Estilos para el pie de página - Enlaces*/
+footer {
+    border: 2px solid black;
+    background-color: #a0a0a0; /* Cambia el color de fondo según tu preferencia */
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #000; /* Cambia el color según tu preferencia */
+    font-size: 18px;
+}
+
+
+.seccion5 form {
+    color: black;
+    
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
